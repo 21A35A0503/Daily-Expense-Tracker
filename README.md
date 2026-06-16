@@ -56,9 +56,9 @@ The application also fetches default expense data from a JSON file and stores us
 ## 📂 Project Structure
 
 ```bash
-Smart-Daily-Expenses-Tracker/
-├── index.html
-├── DailyExpensesTracker.css
+Daily-Expense-Tracker/
+├── DailyExpenseTracker.html
+├── DailyExpenseTracker.css
 ├── expenses.json
 └── README.md
 ```
@@ -70,13 +70,13 @@ Smart-Daily-Expenses-Tracker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/21A35A0503/Smart-Daily-Expenses-Tracker.git
+git clone https://github.com/21A35A0503/Daily-Expense-Tracker.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd Smart-Daily-Expenses-Tracker
+cd Daily-Expense-Tracker
 ```
 
 ### 3. Run the Project
